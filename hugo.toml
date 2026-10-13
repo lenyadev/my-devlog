@@ -1,0 +1,11 @@
+baseURL = 'https://hoverdd.github.io/'
+locale = 'en-rus'
+theme = 'PaperMod'
+title = 'backend.log'
+[params]
+    mainSections = ["posts", "projects", "notes"]
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 20

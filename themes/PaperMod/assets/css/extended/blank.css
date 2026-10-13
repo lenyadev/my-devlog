@@ -1,0 +1,44 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+.entry-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 10px 0 12px;
+}
+
+.entry-tag {
+  display: inline-block;
+  padding: 4px 10px;
+  font-size: 12px;
+  line-height: 1.4;
+  border-radius: 999px;
+  background: var(--theme);
+  border: 1px solid var(--border);
+  color: var(--secondary);
+}
+
+.entry-tag::before {
+  content: "#";
+  margin-right: 1px;
+  color: var(--primary);
+}
+
+.entry-section {
+  margin: 8px 0 10px;
+}
+
+.entry-section-badge {
+  display: inline-block;
+  padding: 4px 10px;
+  font-size: 12px;
+  line-height: 1.4;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--code-bg);
+  color: var(--secondary);
+  font-weight: 500;
+}

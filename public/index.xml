@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>backend.log</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on backend.log</description>
+    <generator>Hugo</generator>
+    <language>en-rus</language>
+    <lastBuildDate>Sun, 27 Sep 2026 16:30:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 27 Sep 2026 16:30:00 +0300</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Привет, меня зовут Лёня и я веду backend.log — личный devlog о backend-разработке, обучении и текущих проектах.&lt;/p&gt;
+&lt;p&gt;Здесь я собираю короткие заметки, более цельные посты и страницы проектов. Мне хотелось сделать спокойное место, где можно фиксировать ход работы, выводы и небольшие технические наблюдения.&lt;/p&gt;
+&lt;p&gt;Основные темы — backend, инструменты, архитектура, обучение и проекты, над которыми я работаю прямо сейчас.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why I split notes and posts</title>
+      <link>http://localhost:1313/posts/why-i-split-notes/</link>
+      <pubDate>Sun, 27 Sep 2026 16:11:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/why-i-split-notes/</guid>
+      <description>Коротко зафиксировал, зачем разделил быстрые заметки и более цельные посты.</description>
+    </item>
+  </channel>
+</rss>
