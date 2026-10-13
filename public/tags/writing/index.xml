@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Writing on backend.log</title>
-    <link>http://localhost:1313/tags/writing/</link>
+    <link>https://hoverdd.github.io/tags/writing/</link>
     <description>Recent content in Writing on backend.log</description>
     <generator>Hugo</generator>
     <language>en-rus</language>
     <lastBuildDate>Sun, 27 Sep 2026 16:11:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hoverdd.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I split notes and posts</title>
-      <link>http://localhost:1313/posts/why-i-split-notes/</link>
+      <link>https://hoverdd.github.io/posts/why-i-split-notes/</link>
       <pubDate>Sun, 27 Sep 2026 16:11:00 +0300</pubDate>
-      <guid>http://localhost:1313/posts/why-i-split-notes/</guid>
+      <guid>https://hoverdd.github.io/posts/why-i-split-notes/</guid>
       <description>Коротко зафиксировал, зачем разделил быстрые заметки и более цельные посты.</description>
     </item>
   </channel>
